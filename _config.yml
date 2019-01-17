@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE 40842 Hackers in the Bazaar Blog Kyle Miller
+title: ls myle_killer/life
 email: kmille42@nd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Blog Posts for the Notre Dame CSE Course Hackers in the Bazaar taught 
