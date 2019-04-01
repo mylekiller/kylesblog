@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading07: Why Open?"
-date:   2019-03-30 16:14:00 -0500
+date:   2019-04-01 14:00:00 -0500
 categories: hackers post
 ---
 
