@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Reading10: Instant Success"
+date:   2019-04-29 22:30:00 -0400
+categories: hackers
+---
+
+**What do you make of Linux's success? Is it proof of the power of hackers in the bazaar? Or was it simply a matter of fortunate circumstances? Will there ever be another open source success story as big as Linux?**
+
+What happens when you focus on what is actually right rather than what makes money, or what upper management wants, or what other people tell you is right? If your name is Linus Torvalds the answer to that question is Linux. When Linus first came to Silicon Valley linux was still generally unknown and comapnies still were not signing on to the open source movement. Comapnies didn't view open source as a yet viable way to make money. Even when Linus was brought in to people like Steve Jobs and asked to sign onto projects that were "open source" he didn't because at heart he knew these projects were not really open source (Apple just wanted to open source it's core while the rest stayed closed source). Even in issues of work-life balance Linus would make a point to get enough sleep which was different from most hacker culture at the time where people would run on little sleep and work throgh the night. These facts just show that Liunus was committed to his ideals, he stuck to his guns even when outside pressure tried to get him to crack. What came from sticking to his guns?....the success of Linux. 
+
+Linux's success rather than being just a right place, right time thing can be traced to the fact that Linus never gave up his ideals for what linux should be like. He instead crafted and continued to craft Linux into what he thought would make a good operating system. On top of that he did it not because he wanted to profit and make money, but because he wanted a system that worked the way he wanted it to and he was interested in building that system. To put it simply he wanted to scratch an itch...which frankly if this course has taught me nothing else it is that scratching an itch could be the biggest decision on ones life. 
+
+This is not to say that there will 100% be another project that is as successful as Linux, some of it's success was due to major comapnies signing on to support linux because they deemed it technically sound and this helped propel it into the spotlight as one of the first FOSS products on the market. What this does show though is that hackers in the bazaar as a concept works. Not only does it work but it is powerful. People contributing to software that they care about produces good software. When people in that software community can stand up to doing whats right instead of following "what the business needs", truly great software can be produced. 
+
+I don't know if I will ever produce great software, I don't know if I really even know what the "correct" way to do things is, but I do know that in the future I will try my very best to do what I deem to be right and correct even if it doesn't align with what will make the most money or what is best for a business. It is only in this way that my contribution to the technical world might even have a chance to match those of Linus Torvalds and Linux or any of the other major Open Source projects out there. I hope I will be able to live up to this challege. 
